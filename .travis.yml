@@ -3,4 +3,4 @@ jdk:
   - oraclejdk7
   - oraclejdk8
 script:
-  - tests/AhorcadoUnitTest.java
+  - tests/AhorcadoUnitTest
