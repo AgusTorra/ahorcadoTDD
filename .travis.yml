@@ -1,8 +1,5 @@
 language: java
 jdk:
-  - oraclejdk7
   - oraclejdk8
-before_install:
-  - cd java
 script:
   - ./tests/AhorcadoUnitTest.java
